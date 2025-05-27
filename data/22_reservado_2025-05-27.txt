@@ -1,0 +1,8 @@
+ID: 22
+Nombre: geomer
+Apellido: asas
+Titulo: asd
+Autor: dd
+Editorial: dddw
+Año: as
+

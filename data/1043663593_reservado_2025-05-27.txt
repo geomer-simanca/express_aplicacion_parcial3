@@ -1,0 +1,8 @@
+ID: 1043663593
+Nombre: Geomer
+Apellido: Simanca
+Titulo: la Hojarasca
+Autor: gabo
+Editorial: la torre
+Año: 1997
+

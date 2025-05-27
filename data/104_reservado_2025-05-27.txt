@@ -1,0 +1,8 @@
+ID: 104
+Nombre: Geomer 
+Apellido: simanca
+Titulo: el queso
+Autor: mario
+Editorial: la ore
+Año: 104
+
