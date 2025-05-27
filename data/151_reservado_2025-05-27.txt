@@ -1,0 +1,8 @@
+ID: 151
+Nombre: geomer
+Apellido: simanca
+Titulo: 100 años de soledad
+Autor: dsads
+Editorial: g
+Año: as
+
